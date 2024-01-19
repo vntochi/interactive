@@ -1,0 +1,3 @@
+Naam: H
+Ras: elf
+Speciale eigenschap: eigenschap12

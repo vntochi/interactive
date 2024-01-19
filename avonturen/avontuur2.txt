@@ -1,0 +1,8 @@
+1;Je bent op zoek naar het Zwaard van Elendil om tegen de vijanden van Midden Aarde te gebruiken. Je staat aan de rand van het donkere woud van Mirkwood. Wat is je eerste stap?;slecht^Een stukje het woud ingaan en hier op zoek gaan naar aanwijzingen.;goed^Diep het woud in gaat op zoek naar aanwijzingen.
+2;Terwijl je het woud verkent, hoor je geluiden in de verte. Wat doe je?;goed^Voorzichtig op het geluid afgaan om te onderzoeken;slecht^Verbergen en afwachten om te zien wie of wat nadert.
+3;Je ontmoet Aragorn en Boromir, twee heldhaftige krijgers. Wat doe je?;goed^Vraag hen om hulp om het Zwaard van Elendil te vinden.;slecht^Ga snel verder met je zoektocht zonder om hulp te vragen.
+4;Je komt bij een vervallen toren. Misschien ligt hier wel een aanwijzing. Wat doe je?;goed^Ga de toren binnen om te onderzoeken wat er binnen is.;slecht^Besluit de toren niet binnen te gaan en verder te zoeken in de omgeving.
+5;Je vindt een aanwijzing, maar dan wordt je aangevallen door een groep orks. Wat doe je?;slecht^Vecht moedig tegen de orcs.;goed^Sla op de vlucht. De orcs zijn met te veel.
+6;Je bent ontsnapt aan de orcs. Wat doe je?;goed^Vervolg je zoektocht;slecht^Tijd om uit te rusten. Je moet je krachten sparen.
+7;Je weg vervolgt over een bergpad. Je ziet iets glinsteren in het gras. Wat doe je?;goed^Onderzoek de glinstering;slecht^Ga snel verder
+8;Je bent bijna bij het Zwaard. Achter je hoor je geluiden van paardenhoeven. Sauron’s handlangers komen eraan. Wat doe je?;slecht^Verstop je en wacht tot ze langs zijn gereden.;goed^Ren snel verder, je bent er bijna.

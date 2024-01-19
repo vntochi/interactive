@@ -1,0 +1,4 @@
+mens;eigenschap1,eigenschap2,eigenschap3
+hobbit;eigenschap4,eigenschap5,eigenschap6
+dwerg;eigenschap7,eigenschap8,eigenschap9
+elf;eigenschap10,eigenschap11,eigenschap12

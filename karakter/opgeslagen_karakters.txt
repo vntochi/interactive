@@ -1,0 +1,11 @@
+vincent;hobbit;snel
+lynn;elf;slim
+jochem;mens;sterk
+marlon;dwerg;charismatisch
+ballsucer;hobbit;eigenschap6
+de grote reus;dwerg;eigenschap9
+HAllo;mens;eigenschap2
+HAllo;mens;eigenschap2
+tim;mens;eigenschap1
+tim;mens;eigenschap1
+Dwayne Johnssonsmol;dwerg;eigenschap7
